@@ -17,12 +17,16 @@ title: enno合同会社
 
 <div class="gallery">
   <div class="gallery-item">
-    <img src="/assets/images/36rafts.png" alt="36rafts">
-    <p>36rafts</p>
+    <a href="https://about.36rafts.com" target="_blank">
+      <img src="/assets/images/36rafts.png" alt="36rafts">
+      <p>36rafts</p>
+    </a>
   </div>
   <div class="gallery-item">
-    <img src="/assets/images/fleurdouce.png" alt="fleurdouce">
-    <p>fleurdouce</p>
+    <a href="https://store.shopping.yahoo.co.jp/fleurdouce/" target="_blank">
+      <img src="/assets/images/fleurdouce.png" alt="fleurdouce">
+      <p>fleurdouce</p>
+    </a>
   </div>
 </div>
 
