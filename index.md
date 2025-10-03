@@ -6,19 +6,19 @@ title: enno合同会社
 
 - 商号：enno合同会社
 - 代表社員：小松 泰
-- 所在地：東京都調布市深大寺東町
+- 所在地：東京都調布市
 - 設立：2025年10月
 
 ---
 
 ## 事業内容
 
-- ITシステムの企画、設計、開発、運用、保守管理、販売及びこれらに関するコンサルティング業務
-- 造花、生花、フラワーリース等の企画、製造、販売及び輸出入
+- [36rafts](https://about.36rafts.com)
+- [fleurdouce](https://store.shopping.yahoo.co.jp/fleurdouce/)
 
 ## お問い合わせ
 
-ご相談やご質問は [contact@enno-inc.com](mailto:contact@enno-inc.com) までご連絡ください。
+ご相談やご質問は [contact@enno-inc.com](mailto:contact@enno-inc.com) までお気軽にご連絡ください。
 
 ---
 
