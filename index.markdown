@@ -19,7 +19,3 @@
 ## お問い合わせ
 
 ご相談やご質問は [contact@enno-inc.com](mailto:contact@enno-inc.com) までお気軽にご連絡ください。
-
----
-
-© 2025 enno合同会社
