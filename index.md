@@ -13,8 +13,8 @@ title: enno合同会社
 
 ## 事業内容
 
-- [36rafts](https://about.36rafts.com)
-- [fleurdouce](https://store.shopping.yahoo.co.jp/fleurdouce/)
+- <a href="https://about.36rafts.com" target="_blank">36rafts</a>
+- <a href="https://store.shopping.yahoo.co.jp/fleurdouce/" target="_blank">fleurdouce</a>
 
 ## お問い合わせ
 
