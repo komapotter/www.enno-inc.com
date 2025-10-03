@@ -36,5 +36,5 @@ title: enno合同会社
 </div>
 
 <footer>
-  <p>© 2025 enno合同会社</p>
+  <p>© 2025 enno LLC</p>
 </footer>
