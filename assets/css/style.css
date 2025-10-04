@@ -66,7 +66,7 @@ ul {
 
 .contact a {
     color: #555;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .contact a:hover {
