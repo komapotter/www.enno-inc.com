@@ -13,14 +13,14 @@ bundle install
 ### 開発サーバーの起動
 
 ```bash
-bundle exec jekyll serve
+bundle exec jekyll serve -P 8080
 ```
 
 これにより、ローカルでサイトをプレビューできます（通常は `http://localhost:4000`）。
 
 ## デプロイ
 
-このサイトはGitHub Pagesでホストされているため、`master`（または`main`）ブランチにプッシュすると自動的にデプロイされます。
+このサイトはGitHub Pagesでホストされているため、`main` ブランチにプッシュすると自動的にデプロイされます。
 
 ## 主要ファイル
 
