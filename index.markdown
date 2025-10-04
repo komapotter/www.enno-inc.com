@@ -4,20 +4,6 @@ title: enno合同会社
 ---
 
 <h1>ENNO</h1>
-<hr>
-
-## 会社概要
-
-<dl class="company-info">
-  <dt>商号</dt>
-  <dd>enno合同会社</dd>
-  <dt>代表</dt>
-  <dd>小松 泰</dd>
-  <dt>所在地</dt>
-  <dd>東京都調布市</dd>
-  <dt>設立</dt>
-  <dd>2025年10月</dd>
-</dl>
 
 <div class="gallery">
   <div class="gallery-item">
@@ -33,6 +19,19 @@ title: enno合同会社
     </a>
   </div>
 </div>
+
+## 会社概要
+
+<dl class="company-info">
+  <dt>商号</dt>
+  <dd>enno合同会社</dd>
+  <dt>代表</dt>
+  <dd>小松 泰</dd>
+  <dt>所在地</dt>
+  <dd>東京都調布市</dd>
+  <dt>設立</dt>
+  <dd>2025年10月</dd>
+</dl>
 
 <div class="contact">
   <h2>お問い合わせ</h2>

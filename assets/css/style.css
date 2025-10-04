@@ -4,11 +4,11 @@ body {
     background-color: #fdfdfd;
     margin: 0;
     padding: 20px;
-    text-align: center;
+    text-align: left;
 }
 
 .container {
-    max-width: 600px;
+    max-width: 800px;
     margin: 40px auto;
     padding: 20px;
 }
@@ -20,11 +20,6 @@ h1 {
     font-weight: 400;
 }
 
-h1 + hr {
-    width: 50px;
-    border: 1px solid #8B4513;
-    margin: 10px auto 50px auto;
-}
 
 h2 {
     font-size: 18px;
@@ -42,14 +37,14 @@ ul {
 
 .gallery {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     gap: 20px;
     margin-top: 50px;
     align-items: flex-start;
 }
 
 .gallery-item {
-    text-align: center;
+    text-align: left;
 }
 
 .gallery-item img {
@@ -89,8 +84,7 @@ footer {
     grid-template-columns: auto 1fr; /* 最初の列はコンテンツの幅、2番目の列は残りの幅 */
     gap: 5px 10px; /* 行と列の間のスペース */
     text-align: left;
-    margin: 0 auto;
-    max-width: 400px;
+    margin: 0;
     padding-left: 0;
     list-style: none;
 }
