@@ -26,4 +26,8 @@ bundle exec jekyll serve -P 8080
 
 *   `_config.yml`: Jekyllサイトの全体的な設定ファイル。サイトのタイトルやURLなどが定義されています。
 *   `index.markdown`: トップページのコンテンツです。
+*   `404.html`: 404エラーページ。
+*   `CNAME`: GitHub Pagesでカスタムドメインを設定する場合に使用。
 *   `Gemfile`: Rubyの依存関係（Jekyll、プラグインなど）を管理します。
+*   `_layouts/`: サイトのレイアウトを定義するファイル群を含むディレクトリ。
+*   `assets/`: CSSや画像などの静的アセットを含むディレクトリ。
