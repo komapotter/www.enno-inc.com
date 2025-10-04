@@ -8,12 +8,16 @@ title: enno合同会社
 
 ## 会社概要
 
-<ul>
-  <li>商号：enno合同会社</li>
-  <li>代表：小松 泰</li>
-  <li>所在地：東京都調布市</li>
-  <li>設立：2025年10月</li>
-</ul>
+<dl class="company-info">
+  <dt>商号</dt>
+  <dd>enno合同会社</dd>
+  <dt>代表</dt>
+  <dd>小松 泰</dd>
+  <dt>所在地</dt>
+  <dd>東京都調布市</dd>
+  <dt>設立</dt>
+  <dd>2025年10月</dd>
+</dl>
 
 <div class="gallery">
   <div class="gallery-item">

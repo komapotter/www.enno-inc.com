@@ -83,3 +83,28 @@ footer {
     font-size: 12px;
     color: #888;
 }
+
+.company-info {
+    display: grid;
+    grid-template-columns: auto 1fr; /* 最初の列はコンテンツの幅、2番目の列は残りの幅 */
+    gap: 5px 10px; /* 行と列の間のスペース */
+    text-align: left;
+    margin: 0 auto;
+    max-width: 400px;
+    padding-left: 0;
+    list-style: none;
+}
+
+.company-info dt {
+    font-weight: bold;
+    text-align: right; /* コロンを右寄せにするため */
+}
+
+.company-info dt::after {
+    content: ":";
+    margin-left: 5px;
+}
+
+.company-info dd {
+    margin: 0; /* デフォルトのddのマージンをリセット */
+}
