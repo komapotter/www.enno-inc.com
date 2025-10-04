@@ -3,7 +3,7 @@ layout: default
 title: enno合同会社
 ---
 
-<h1>ENNO</h1>
+<img src="/assets/images/enno-logo.png" alt="enno">
 
 <div class="gallery">
   <div class="gallery-item">

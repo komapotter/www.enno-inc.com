@@ -102,3 +102,8 @@ footer {
 .company-info dd {
     margin: 0; /* デフォルトのddのマージンをリセット */
 }
+
+img[alt="enno"] {
+    width: 150px;
+    height: auto; /* アスペクト比を維持 */
+}
