@@ -107,3 +107,26 @@ img[alt="enno"] {
     width: 150px;
     height: auto; /* アスペクト比を維持 */
 }
+
+@media (max-width: 768px) {
+    .gallery {
+        flex-direction: column;
+    }
+
+    .company-info {
+        grid-template-columns: 1fr;
+    }
+
+    .company-info dt {
+        text-align: left;
+        font-weight: bold;
+    }
+
+    .company-info dt::after {
+        content: "";
+    }
+
+    .company-info dd {
+        margin-left: 1em;
+    }
+}
