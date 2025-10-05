@@ -44,7 +44,7 @@ ul {
 }
 
 .gallery-item {
-    width: 80%;
+    width: 100%;
     overflow: hidden; /* はみ出し防止 */
 }
 
