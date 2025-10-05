@@ -31,3 +31,8 @@ bundle exec jekyll serve -P 8080
 *   `Gemfile`: Rubyの依存関係（Jekyll、プラグインなど）を管理します。
 *   `_layouts/`: サイトのレイアウトを定義するファイル群を含むディレクトリ。
 *   `assets/`: CSSや画像などの静的アセットを含むディレクトリ。
+
+## 注意点
+
+* 画面の表示内容は、http://localhost:8080に対して、Chrome DevToolsのMCP serverを使って確認して下さい。
+* http://localhost:8080は常に起動しているため、別途開発サーバを起動する必要はありません。
