@@ -25,12 +25,16 @@ title: enno合同会社
 <dl class="company-info">
   <dt>商号</dt>
   <dd>enno合同会社</dd>
+  <dt>所在地</dt>
+  <dd>東京都調布市深大寺東町2-11-67</dd>
+  <dt>設立日</dt>
+  <dd>2025年10月6日</dd>
+  <dt>資本金</dt>
+  <dd>100万円</dd>
   <dt>代表</dt>
   <dd>小松 泰</dd>
-  <dt>所在地</dt>
-  <dd>東京都調布市深大寺</dd>
-  <dt>設立</dt>
-  <dd>2025年10月</dd>
+  <dt>事業内容</dt>
+  <dd>WEBシステム開発/構築/運用、フラワー関連ネットショップ</dd>
 </dl>
 
 <div class="contact">
