@@ -34,7 +34,7 @@ title: enno合同会社
   <dt>代表</dt>
   <dd>小松 泰</dd>
   <dt>事業内容</dt>
-  <dd>WEBシステム開発/構築/運用、フラワー関連ネットショップ</dd>
+  <dd>WEBシステム開発/構築/運用(36rafts)、フラワー関連ネットショップ(fleurdouce)</dd>
 </dl>
 
 <div class="contact">
